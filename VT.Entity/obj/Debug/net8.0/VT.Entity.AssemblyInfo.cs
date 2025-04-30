@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VT.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d344d5a23d211a30a226091e2ca8551181c6c17e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23664d2d97ac8acd982e728e49deba2eb6f9766f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VT.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VT.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
